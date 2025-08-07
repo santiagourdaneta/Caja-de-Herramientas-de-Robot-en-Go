@@ -1,0 +1,28 @@
+# Executable files
+/go-robot-toolbox
+/go-robot-toolbox.exe
+
+# Binaries for different operating systems
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build artifacts
+*.o
+*.a
+
+# Package cache
+/pkg/
+
+# Test output
+/test/
+
+# Go module cache
+/go.mod
+/go.sum
+
+# IDE and editor files
+.idea/
+.vscode/
+.DS_Store
